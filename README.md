@@ -6,6 +6,7 @@ I'm a Computer Science student at Ryerson University looking to delve into the s
 - JavaScript
 - React/React-Native
 - NodeJS
+
 These are the technologies that I know and but I'm hoping to add much more to my toolbelt 
 
 - 🔭 I’m currently working on a club management software application called Tipsisocial (private repo)
