@@ -8,6 +8,7 @@ I'm a Computer Science student at Ryerson University looking to delve into the s
 - React/React-Native
 - NodeJS
 - MongoDB
+- PostgreSQL
 - HTML/CSS
 
 These are the technologies that I know and but I'm hoping to add much more to my toolbelt 
