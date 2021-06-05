@@ -11,7 +11,7 @@ I'm a Computer Science student at Ryerson University looking to delve into the s
 - PostgreSQL
 - HTML/CSS
 
-These are the technologies that I know and but I'm hoping to add much more to my toolbelt 
+These are the technologies that I know but I'm hoping to add much more to my toolbelt 
 
 - 🔭 I’m currently working on a club management software application called Tipsisocial (private repo)
 - 🌱 I’m currently learning SQL
